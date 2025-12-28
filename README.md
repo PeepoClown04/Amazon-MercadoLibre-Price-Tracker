@@ -1,4 +1,4 @@
-# Amazon/MercadoLibre Price Tracker ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+# Amazon/MercadoLibre Price Tracker
 
 Herramienta de automatización diseñada para monitorear fluctuaciones de precios en plataformas de comercio electrónico. Rastrea URLs específicas, extrae datos de precios en tiempo real y notifica al usuario cuando se detecta un descuento objetivo, eliminando la necesidad de verificación manual.
 
